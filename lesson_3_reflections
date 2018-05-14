@@ -10,4 +10,6 @@ forks: githubon másolatot készítek más repositoryjáról
 clones: másolatot készítek egy repositoryról
 branches: elágazik egy fejlesztés, több szálon fut tovább
 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
 

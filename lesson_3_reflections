@@ -4,3 +4,10 @@ ha másokkal együtt szeretnék dolgozni, vagy másik számítógépről s bejel
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 mert nem biztos, hogy mindent meg akarok osztani, amit csináltam
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: githubon másolatot készítek más repositoryjáról
+clones: másolatot készítek egy repositoryról
+branches: elágazik egy fejlesztés, több szálon fut tovább
+
+
